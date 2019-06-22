@@ -5,4 +5,5 @@ body{
 .container{
   width: 90%;
   margin: auto 5%;
+  padding: 10px 20px; 
 }
